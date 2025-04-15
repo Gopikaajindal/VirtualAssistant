@@ -1,0 +1,1 @@
+Developed a voice-activated virtual assistant with speech recognition, TTS, and a user-friendly UI. It responds to voice commands, plays songs, fetches real-time info, and tells jokes, with robust error handling for smooth user interaction.
